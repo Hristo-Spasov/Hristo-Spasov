@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hr.spasov32@gmail.com**
 
-- ⚡ Fun fact **I love video games**
+- ⚡ Fun fact **Some bugs can be fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
