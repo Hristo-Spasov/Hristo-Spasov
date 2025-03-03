@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **hr.spasov32@gmail.com**
 
-- ⚡ Fun fact **Some bugs can be fun**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hristo-spasov-fnd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hristo-spasov-fnd/" height="30" width="40" /></a>
